@@ -1,0 +1,6 @@
+2023-05-05T22:21:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-content\themes\diza\inc\widgets\woo-carousel.php, na linha 2
+
+2023-05-05T23:45:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-content\plugins\cmb2\includes\CMB2_JS.php, na linha 80
+
+2023-05-05T23:48:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-includes\class-wpdb.php, na linha 2431
+

@@ -1,0 +1,22 @@
+2023-05-10T10:14:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-admin\includes\class-wp-privacy-data-export-requests-list-table.php, na linha 10
+
+2023-05-10T12:33:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-includes\class-wp-theme.php, na linha 1424
+
+2023-05-10T12:33:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-includes\class-wpdb.php, na linha 2431
+
+2023-05-10T12:34:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-includes\class-wpdb.php, na linha 2431
+
+2023-05-10T12:34:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-content\plugins\woocommerce\src\Internal\Admin\ProductReviews\Reviews.php, na linha 523
+
+2023-05-10T12:34:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-includes\class-wpdb.php, na linha 2431
+
+2023-05-10T12:34:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-content\plugins\elementor-pro\plugin.php, na linha 158
+
+2023-05-10T12:34:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-admin\includes\class-wp-privacy-data-export-requests-list-table.php, na linha 10
+
+2023-05-10T12:35:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-includes\class-wpdb.php, na linha 2431
+
+2023-05-10T12:35:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-includes\class-wpdb.php, na linha 2431
+
+2023-05-10T12:36:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-includes\pomo\translations.php, na linha 92
+

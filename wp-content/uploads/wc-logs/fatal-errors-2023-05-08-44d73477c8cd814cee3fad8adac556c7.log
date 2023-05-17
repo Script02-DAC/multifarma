@@ -1,0 +1,10 @@
+2023-05-08T14:08:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-includes\Requests\src\Transport\Curl.php, na linha 510
+
+2023-05-08T16:02:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-includes\rest-api\class-wp-rest-server.php, na linha 926
+
+2023-05-08T16:57:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-content\plugins\elementor-pro\modules\woocommerce\widgets\product-images.php, na linha 9
+
+2023-05-08T16:57:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-content\plugins\elementor-pro\modules\woocommerce\widgets\product-add-to-cart.php, na linha 10
+
+2023-05-08T16:57:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-content\plugins\elementor-pro\modules\woocommerce\widgets\notices.php, na linha 8
+

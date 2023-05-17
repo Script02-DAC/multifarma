@@ -1,0 +1,4 @@
+2023-04-20T16:54:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-includes\functions.php, na linha 4550
+
+2023-04-20T16:55:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-includes\class-wp-theme.php, na linha 1271
+

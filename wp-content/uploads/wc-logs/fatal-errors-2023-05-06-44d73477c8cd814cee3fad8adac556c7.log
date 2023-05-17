@@ -1,0 +1,6 @@
+2023-05-06T13:54:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Formatters\MoneyFormatter.php, na linha 9
+
+2023-05-06T13:54:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-content\themes\diza\inc\merlin\assets\images\sprite.svg, na linha 1
+
+2023-05-06T13:54:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\Multifarma\wp-includes\Requests\src\Transport\Curl.php, na linha 510
+

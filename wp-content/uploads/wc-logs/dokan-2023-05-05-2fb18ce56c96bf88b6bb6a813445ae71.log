@@ -1,0 +1,23 @@
+2023-05-05T23:36:04+00:00 DEBUG New Order #2257 created. Init sub order.
+2023-05-05T23:36:04+00:00 DEBUG Got 5 vendors, starting sub order.
+2023-05-05T23:36:04+00:00 DEBUG Creating sub order for vendor: #11
+2023-05-05T23:36:04+00:00 DEBUG #2258 - Creating Shipping.
+2023-05-05T23:36:04+00:00 DEBUG #2258 - Adding shipping item.
+2023-05-05T23:36:05+00:00 DEBUG Created sub order : #2258
+2023-05-05T23:36:05+00:00 DEBUG Creating sub order for vendor: #9
+2023-05-05T23:36:05+00:00 DEBUG #2259 - Creating Shipping.
+2023-05-05T23:36:05+00:00 DEBUG #2259 - Adding shipping item.
+2023-05-05T23:36:05+00:00 DEBUG Created sub order : #2259
+2023-05-05T23:36:05+00:00 DEBUG Creating sub order for vendor: #5
+2023-05-05T23:36:06+00:00 DEBUG #2260 - Creating Shipping.
+2023-05-05T23:36:06+00:00 DEBUG #2260 - Adding shipping item.
+2023-05-05T23:36:06+00:00 DEBUG Created sub order : #2260
+2023-05-05T23:36:06+00:00 DEBUG Creating sub order for vendor: #10
+2023-05-05T23:36:06+00:00 DEBUG #2261 - Creating Shipping.
+2023-05-05T23:36:06+00:00 DEBUG #2261 - Adding shipping item.
+2023-05-05T23:36:06+00:00 DEBUG Created sub order : #2261
+2023-05-05T23:36:06+00:00 DEBUG Creating sub order for vendor: #12
+2023-05-05T23:36:07+00:00 DEBUG #2262 - Creating Shipping.
+2023-05-05T23:36:07+00:00 DEBUG #2262 - Adding shipping item.
+2023-05-05T23:36:07+00:00 DEBUG Created sub order : #2262
+2023-05-05T23:36:07+00:00 DEBUG Completed sub order for #2257.
